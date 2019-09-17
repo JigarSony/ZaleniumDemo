@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35958" started-at="2019-09-17T16:59:32Z" finished-at="2019-09-17T17:00:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35958" started-at="2019-09-17T16:59:32Z" finished-at="2019-09-17T17:00:08Z">
+      <class name="zaleniumDemo.FirefoxZaleniumDemo">
+        <test-method status="PASS" signature="openFF()[pri:0, instance:zaleniumDemo.FirefoxZaleniumDemo@91161c7]" name="openFF" duration-ms="34025" started-at="2019-09-17T16:59:32Z" finished-at="2019-09-17T17:00:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFF -->
+      </class> <!-- zaleniumDemo.FirefoxZaleniumDemo -->
+      <class name="zaleniumDemo.ChromeZaleniumDemo">
+        <test-method status="PASS" signature="openFF()[pri:0, instance:zaleniumDemo.ChromeZaleniumDemo@604ed9f0]" name="openFF" duration-ms="17603" started-at="2019-09-17T16:59:32Z" finished-at="2019-09-17T16:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFF -->
+      </class> <!-- zaleniumDemo.ChromeZaleniumDemo -->
+      <class name="zaleniumDemo.ChromeZaleniumDemo2">
+        <test-method status="PASS" signature="openFF()[pri:0, instance:zaleniumDemo.ChromeZaleniumDemo2@6a4f787b]" name="openFF" duration-ms="35929" started-at="2019-09-17T16:59:32Z" finished-at="2019-09-17T17:00:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFF -->
+      </class> <!-- zaleniumDemo.ChromeZaleniumDemo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
